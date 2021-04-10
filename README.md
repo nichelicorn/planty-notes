@@ -15,3 +15,7 @@
 * You should definitely experiment with flex-box and/or grid
 * Ask your mentor for a review on one of your pull requests
 * Ask your accountabilibuddy for a review on one of your pull requests and give them one in return
+
+## Challenge goals
+* use grid layouts for mobile and desktop versions
+* add a normalize to the CSS for browser compatibility

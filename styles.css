@@ -24,10 +24,21 @@ header {
 }
 
 .headImg {
-  width: 250px;
+  width: 300px;
 }
 
 /* 🎴 Card styles */
+.card-dsply {
+  grid: auto-flow / 1fr 1fr 1fr;
+}
+
+.card {
+  border: 1px solid orange;
+}
+
+.card-hdr {
+
+}
 
 
 /* 🎨

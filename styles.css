@@ -12,6 +12,14 @@ body {
   color: #05211b;
 }
 
+.hidden {
+  display: none;
+}
+
+.icon {
+  width: 150px;
+}
+
 /* 💀 Header Styles */
 header {
   margin: 1em;

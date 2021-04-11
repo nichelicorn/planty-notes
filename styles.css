@@ -14,7 +14,11 @@ body {
 
 /* 💀 Header Styles */
 header {
-  background-color: gray;
+  /* background-color: gray; */
+}
+
+.headImg {
+  width: 50px;
 }
 
 /* 🎴 Card styles */

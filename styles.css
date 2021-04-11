@@ -20,11 +20,11 @@ header {
 
 .hdr-grid {
   display: grid;
-  grid-template-columns: 33.33% 33.33% 33.33%;
+  grid-template-columns: 25% 50% 25%;
 }
 
 .headImg {
-  width: 300px;
+  width: 450px;
 }
 
 /* 🎴 Card styles */

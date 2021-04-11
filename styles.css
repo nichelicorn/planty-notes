@@ -35,6 +35,15 @@ header {
   width: 450px;
 }
 
+.left-nav,
+.rght-nav,
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 /* 🎴 Card styles */
 .card-dsply {
   grid: auto-flow / 1fr 1fr 1fr;

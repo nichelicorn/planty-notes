@@ -44,7 +44,8 @@ header {
 }
 
 .icon {
-  width: 150px;
+  height: 120px;
+  /* width: 150px; */
 }
 
 .left-nav,
@@ -74,13 +75,31 @@ header {
   background-image: url("./assets/marbleQueen.JPG");
   background-size: cover;
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
   height: 19em;
   color: #fff;
 }
 
-.views {
+.sm-fnt {
+  font-size: 1.3em;
 }
+
+.bg-fnt {
+  font-size: 2em;
+}
+
+.holder {
+  width: 150px;
+  margin: .5em;
+  display: flex;
+  flex-direction: column;
+  font-size: 3em;
+  align-items: center;
+}
+
+.cnt {
+  font-size: 4em;
+}
+
 
 /* 🎨
 🍑 #ffdbdb

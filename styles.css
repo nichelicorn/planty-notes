@@ -2,10 +2,29 @@
   border: 1px solid mediumslateblue;
 }
 
+/* 🦁 Main styles */
+html,
+body {
+  background-color: #fdcef2;
+  background-image: url("./assets/leaves1.png");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #05211b;
+}
+
+/* 💀 Header Styles */
+header {
+  background-color: gray;
+}
+
+/* 🎴 Card styles */
+
+
 /* 🎨
 🍑 #ffdbdb
 🍋 #fff9d1
 🥝 #c6f4ea
 🍆 #d7dcfd
 🍓 #fdcef2
+🌚 #05211b
 */

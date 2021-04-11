@@ -4,6 +4,9 @@ A static comp to practice CSS and HTML
 ### Screenshot of static layout
 ![screenshot layout](./assets/screenshot1.png)
 
+### View the deployed site here:
+[🌳 planty notes 🌵](https://nichelicorn.github.io/planty-notes/)
+
 ### Screenshot of static comp
 ![screenshot org](./assets/compLayout.jpeg)
 

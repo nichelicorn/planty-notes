@@ -64,7 +64,7 @@ header {
 .card {
   width: 55em;
   height: 70em;
-  background-color: #d7dcfd;
+  background-color: #fdcef2;
   box-shadow: 5px 5px 10px #fff9d1;
   border: 1px solid orange;
 }
@@ -98,6 +98,18 @@ header {
 
 .cnt {
   font-size: 4em;
+}
+
+.card-dts {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+}
+
+.card-sec {
+  background-color: #fff9d1;
+  margin: 1em;
+  height: 10.5em;
 }
 
 

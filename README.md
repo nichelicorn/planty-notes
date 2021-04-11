@@ -1,21 +1,37 @@
-# static-comp-m2
-
 ## Static comp solo challenge
-### Base Requirements
-* Basic static site setup with index.html and styles.css
-* Site must be responsive
-  * start with mobile layout first
-  * have a media query for desktop version, poss one for tablet version
-* ✅ Create a repo on github :octocat: for your work
-* Include a README with the repo that provides a brief overview of the project, and images of both the original comp and your version.
-* Push your final work to github pages
-### Additional Requirements
-* Site must work across Firefox, Safari, Chrome
-* Developer must use normalize or reset file in CSS
-* You should definitely experiment with flex-box and/or grid
-* Ask your mentor for a review on one of your pull requests
-* Ask your accountabilibuddy for a review on one of your pull requests and give them one in return
+A static comp to practice CSS and HTML
 
-## Challenge goals
-* use grid layouts for mobile and desktop versions
-* add a normalize to the CSS for browser compatibility
+### Screenshot of static layout
+![screenshot layout](./assets/screenshot1.png)
+
+### Screenshot of static comp
+![screenshot org](./assets/compLayout.jpeg)
+
+### Learning goals
+* Create a basic static static website with responsive design layouts
+* Match the layout of the comp (creative license granted on copy and images)
+* Practice using grid vs. flexbox
+* Gain a better understanding of responsive design
+* Use a normalize file to allow cross-browser compatibility
+
+## Author
+<table>
+    <tr>
+        <td> Nichele Dunn <a href="https://github.com/nichelicorn">GH</td>
+    </tr>
+    </tr>
+        <td><img src="https://avatars.githubusercontent.com/u/63027000?v=4" alt="N. Dunn" width="125" height="auto" /></td>
+    </tr>
+</table>
+
+## Technologies
+<table>
+    <tr>
+        <td>Structure</td>
+        <td>Styling</td>
+    </tr>
+    </tr>
+        <td><img src="./assets/html-logo.png" alt="html" width="100" height="auto" /></td>
+        <td><img src="./assets/css-logo.png" alt="css" width="100" height="auto" /></td>
+    </tr>
+</table>

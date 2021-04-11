@@ -63,7 +63,7 @@ header {
 
 .card {
   width: 55em;
-  height: 70em;
+  height: 71em;
   background-color: #fdcef2;
   box-shadow: 5px 5px 10px #fff9d1;
   border: 1px solid orange;
@@ -80,11 +80,11 @@ header {
 }
 
 .sm-fnt {
-  font-size: 1.3em;
+  font-size: 2em;
 }
 
 .bg-fnt {
-  font-size: 2em;
+  font-size: 4em;
 }
 
 .holder {
@@ -109,7 +109,8 @@ header {
 .card-sec {
   background-color: #fff9d1;
   margin: 1em;
-  height: 10.5em;
+  height: 10em;
+  padding: .5em;
 }
 
 

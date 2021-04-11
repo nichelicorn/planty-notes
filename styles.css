@@ -10,14 +10,11 @@ body {
   background-size: cover;
   background-attachment: fixed;
   color: #05211b;
+  margin: 1em;
 }
 
 .hidden {
   display: none;
-}
-
-.icon {
-  width: 150px;
 }
 
 /* 💀 Header Styles */
@@ -35,6 +32,10 @@ header {
   width: 450px;
 }
 
+.icon {
+  width: 150px;
+}
+
 .left-nav,
 .rght-nav,
 .nav-links {
@@ -44,12 +45,19 @@ header {
   align-items: center;
 }
 
+main {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
 /* 🎴 Card styles */
 .card-dsply {
   grid: auto-flow / 1fr 1fr 1fr;
 }
 
 .card {
+  width: 55em;
   border: 1px solid orange;
 }
 

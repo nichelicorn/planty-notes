@@ -1,5 +1,5 @@
 * {
-  border: 1px solid mediumslateblue;
+  /* border: 1px solid mediumslateblue; */
 }
 
 /* 🦁 Main styles */
@@ -14,11 +14,17 @@ body {
 
 /* 💀 Header Styles */
 header {
-  /* background-color: gray; */
+  margin: 1em;
+  border: 1px solid lime;
+}
+
+.hdr-grid {
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
 }
 
 .headImg {
-  width: 50px;
+  width: 250px;
 }
 
 /* 🎴 Card styles */
